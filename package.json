@@ -28,7 +28,7 @@
     "axios-debug-log": "^1.0.0",
     "cli-color": "^2.0.4",
     "commander": "^11.1.0",
-    "convert-svg-to-png": "^0.6.4",
+    "convert-svg-to-png": "^0.7.1",
     "debug": "^4.4.0",
     "diff-match-patch": "^1.0.5",
     "ethers": "^6.13.5",
